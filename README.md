@@ -107,4 +107,5 @@ J-Project doesn't has an specific reason... it just... exists.
 and LillyDev is very bad at coding, so you might will see lots of copy-pasted code or VERY bad syntax in anything else that isn't J-Lang(even on that)
 
 ATTE: LillyDev
-  A.K.A: The Worst Programmer In The World.
+
+  ***A.K.A: The Worst Programmer In The World.***
